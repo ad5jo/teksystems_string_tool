@@ -5,7 +5,7 @@ To run this:
 3. node doit.js <enter>
 * Must have nodeJS installed on your workstation
 * The input variable ist, sentence can be changed to whatever you want mutated.
-* The sentence must be contained within tick quotes like this: `Smooth`
+* The sentence must be contained within tick quotes like this: `Smooth`  \`Smooth\`  
 * the limitation is that tick marks can't be within the sentence.
 
 
