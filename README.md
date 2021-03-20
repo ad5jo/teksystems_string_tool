@@ -1,4 +1,14 @@
 # teksystems_string_tool
+To run this:
+1. Clone to your workspace
+2. cd teksystems_string_tool <enter>
+3. node doit.js <enter>
+* Must have nodeJS installed on your workstation
+* The input variable ist, sentence can be changed to whatever you want mutated.
+* The sentence must be contained within tick quotes like this: `Smooth`
+* the limitation is that tick marks can't be within the sentence.
+
+
 code assignment
 
 In the programming language of your choice,
@@ -23,4 +33,3 @@ will be used as a conversation point in the verbal assessment part of the on-sit
 Please complete the coding assessment and have your solution uploaded as soon as possible.
 Please upload your solution to Dropbox or similar option (not G-Drive) and
 send a link to download the folder.
- 
